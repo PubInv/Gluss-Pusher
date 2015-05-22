@@ -34,4 +34,12 @@ http://www.mare.ee/indrek/ephi/
 
 But does not seem to be oriented toward permanent magnets.
 
+* * *
+
+Basically I reinvented this:
+
+http://en.wikipedia.org/wiki/Tubular_linear_motor
+
+And so now I must ask the question: Why can't we get a cheap one of these for hobbyist?
+
 
