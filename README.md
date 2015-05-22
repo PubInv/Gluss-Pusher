@@ -22,6 +22,8 @@ stable states) which never "pinch" -- that is, never have magnets attract each o
 way of saying that is to develop mechanism that are like unto magnetic bearings---they operate on proximity but 
 not contact, in order to provide robustness, low cost, and low maintenance.
 
+
+
 * * *
 
 This seems particularly relevant:
@@ -45,6 +47,24 @@ And so now I must ask the question: Why can't we get a cheap one of these for ho
 This firm seems to make great ones, but doesn't list prices, so one can assume they are expensive:
 
 http://www.linmot.com/fileadmin//user_upload/Downloads/databooks/0185-1100-E_1V0_Product_Overview.pdf
+
+* * *
+
+I apologize for not putting all my notes up immediately---things change rather rapidly.
+
+Basically I believe there is room for a $10 "coil gun" type actuator that I don't believe anyone has built yet.  It
+will not be a forceful as a linear motor, nor as precise, and so in a way it will be a "poor" actuator.  I believe 
+technically it will be a "mechanism" rather than a "machine" --- a mechanism positions, but a machine applies force.
+Furtermore, it will offer relatively poor control of the positioning.  Basically it will jerk itself into position, and then latch itself there with no power.
+
+Imagine the following application: An earthquake has knocked down a bridge.  We need to span the river to allow trucks to cross.  In this application we don't actually have to LIFT anything except ourselves---IF we can then lock ourselves into place and our locked strength is sufficient to support the weight of a truck.
+
+So this is a system designed to be both cheap and also not a "motor" in the sense that it is not expected to move much---it is expected to move into a shape and stay there for a while before moving again.
+
+I think at least this is an unexplored point in the design spectrum.  Certainly, it would be a lot more fun to 
+build a giant robot out of 100 $10 mechansims than 100 $100 machines.  Before you spent the $10K on the machines you 
+would probably want to prove that you could coordinate motion for the $1000 inexpensive solution anyway.
+
 
 
 
