@@ -21,3 +21,11 @@ One idea is the possibility of building multipolar magnetic devices (by which I 
 stable states) which never "pinch" -- that is, never have magnets attract each other to the point of contact.  Another 
 way of saying that is to develop mechanism that are like unto magnetic bearings---they operate on proximity but 
 not contact, in order to provide robustness, low cost, and low maintenance.
+
+* * *
+
+This seems particularly relevant:
+
+http://en.wikipedia.org/wiki/Halbach_array
+
+
