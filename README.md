@@ -28,4 +28,10 @@ This seems particularly relevant:
 
 http://en.wikipedia.org/wiki/Halbach_array
 
+I don't understand why there isn't a good online simulator---perhaps I should write one.  This looks like it might work:
+
+http://www.mare.ee/indrek/ephi/
+
+But does not seem to be oriented toward permanent magnets.
+
 
