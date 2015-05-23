@@ -50,7 +50,7 @@ http://www.linmot.com/fileadmin//user_upload/Downloads/databooks/0185-1100-E_1V0
 
 * * *
 
-I apologize for not putting all my notes up immediately---things change rather rapidly.
+I apologize for not putting all my notes up immediately---things change rather rapidly. (I have now put photos and notes in the Sprint0.md file.
 
 Basically I believe there is room for a $10 "coil gun" type actuator that I don't believe anyone has built yet.  It
 will not be a forceful as a linear motor, nor as precise, and so in a way it will be a "poor" actuator.  I believe 
@@ -66,5 +66,10 @@ build a giant robot out of 100 $10 mechansims than 100 $100 machines.  Before yo
 would probably want to prove that you could coordinate motion for the $1000 inexpensive solution anyway.
 
 
+* * *
 
+Note that a major problem in what I am proposing, the "coil gun" approach, and try to stay under $10, is that it requires precise control, and yet most sensors cost more than $10!
+
+But, we have a highly, highly constrained linear geometry.  it seems to me that we can likely put an LED and simple
+photocell resistor at one end of the pipe and find a way to calibrate it to position.  As the plunger moves down the stator, (I need better terms---as the piston moves down the cylinder?) it moves away from the LED, and more of the light that is reflected into the photocell should be absorbed by the walls.  This may not be precise, but hopefully it will be an elegant solution.
 
