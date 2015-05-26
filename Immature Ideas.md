@@ -13,3 +13,7 @@ In this approach, we produce relative long magnets and use a relatively long iro
 how much force is exerted in this "long model", but if enough is exerted, this could be a very elegant solution.
 I think I can test this very quickly with the equipment that I have, though it will be hard to 
 quantify---I need to get scientific and skilled at quanitfying these forces.
+
+* * *
+
+After a simple test, this seems not to be very useful.  the force for a piece of iron to be equalized between the two poles of a magnet seems either nonexistent or so low as to not be useful.  I suppose that my intuition was simply wrong about this.
