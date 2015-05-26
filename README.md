@@ -10,6 +10,19 @@ under Creative Commons Share Alike, or the GPL.
 As explained in the PIFAH/PIFAH repository, we welcome your contributions and participations.  Contact me to see how to
 participate.
 
+## Motivation
+
+I would like to build robots based on large numbers of very simple components that can lengthen or shorten themselves.  Buckminster Fuller invented the Octet truss, a beautiful space-filling structure of alternating tetrahedra and octohedra. Or perhaps it would be more accurate to say that the universe invented and Bucky promoted it.
+
+If we imagine a "truss" that acts like a "glass" we get a "gluss" that can move like a "slug".  That is, I want a system that can ooze about like a slug.
+
+Linear actuators are standard components that can be purchased off-the-shelf.  However, they are rather expesnsive, at about $100 a piece. They are also more forceful and more precise that what we need to build an experimental "gluss".  Although it would be wonderful to spend $10K to build a power 100-element gluss, I think it makes more sense to attempt to use simpler components.
+
+I also believe there is value in general for linear actuators in a cheaper, weaker part of the design spectrum.  Such actuators might be called "mechanisms" rather than "machines" in technical parlance. A machine deals with forces, a mechanism is concerned only with positioning.
+
+
+## Notes
+
 * * *
 
 I have a prototype that does some simple stuff---I can move magnets around in various linear stable positions.
