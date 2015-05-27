@@ -24,12 +24,30 @@ to have others comment on this.  However, I believe it is worth moving forward o
 
 ## Stories
 
-* As a skeptical investigator, I would like to prove that I can move the magnet using a multi-coil system.
-* As an investigator, I would like to prove that I can coordinate two 25-turn coils to move the 1/8" cylindrical magnets.
+* As a skeptical investigator, I would like to prove that I can move the magnet using a multi-coil system. -- basically done now, with my shabby little three coils.
+* As an investigator, I would like to prove that I can coordinate two 25-turn coils to move the 1/8" cylindrical magnets -- basically done, thought my equipment right now is terrible.
 * As a robot builder, I would like to be able to control the motion of the piston with an Arduino, in whatever a
 limited way that may be.
 * As a hobbyist, I would like to know how to build an actuator (without consideration of force), for around $10 that
 let's me move something with my Arduino.
+
+## Equipment
+
+I have a Seeedstudio Motor Shield V2. In principle, should should be able to drive two of my coils.  It's a little depressing that it takes that much extra hardware---since I am going to have at least 4 coils!  But I suppose I must try to understand this shield instead of trying to build my own MOSFET control board---something that I have been wanting to do for some time.
+
+Unfortunately, all three of my current Adruino Unos are in use in other demo projects, and I would rather not cannbalize one.  However, I have an Esplora, and I suppose that if I use enough jumper cables I should be able to power it in that way.  I THINK I can use my power supply to provide up to 15V power to the Motor Shield and have it power the Esplora, perhaps --- not sure about that.
+
+Once again, all of this is just showing how much I have to learn --- I barely understand how Arduino shields work.
+
+BTW, I'm pretty sure that we can eventually build a simpler (less expensive) system for controlling the coils.
+
+I need to get some thinner magnet wire, and possibly another Uno.
+
+## Project for Tomorrow
+
+So tomorrow I want to try to use my Motor Shield to control two of my coils independently.  I suppose that I should wire it through my Esplora.
+
+
 
 
 
