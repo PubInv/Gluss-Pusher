@@ -86,3 +86,12 @@ Note that a major problem in what I am proposing, the "coil gun" approach, and t
 But, we have a highly, highly constrained linear geometry.  it seems to me that we can likely put an LED and simple
 photocell resistor at one end of the pipe and find a way to calibrate it to position.  As the plunger moves down the stator, (I need better terms---as the piston moves down the cylinder?) it moves away from the LED, and more of the light that is reflected into the photocell should be absorbed by the walls.  This may not be precise, but hopefully it will be an elegant solution.
 
+* * * 
+
+Sunday, May 31st
+
+I am now using the [SeedStudio Motor Shield v. 2.0](http://www.seeedstudio.com/depot/Motor-Shield-V20-p-1377.html) to apply power to the coil.  This is not particularly interesting, except that it means that I can now control the coils with the Arduino.
+
+I like this shield as a way fo controlling external power.  It is not as well documented as it should be.  It would be nice for someone to create a similar shield with more than 2 channels, or even which allowed multiplexed (non-simultaneous) action.
+
+
