@@ -94,4 +94,10 @@ I am now using the [SeedStudio Motor Shield v. 2.0](http://www.seeedstudio.com/d
 
 I like this shield as a way fo controlling external power.  It is not as well documented as it should be.  It would be nice for someone to create a similar shield with more than 2 channels, or even which allowed multiplexed (non-simultaneous) action.
 
+Note: This particular shield appears to use the external voltage only if the Arduino is not supplied power directly.  I find this weird and unhelpful.  However, doing so, I was able, with some weirdness, to tick-tock my carrier back and forth.  Thus it is in some sense a control, although I must do much more to have a true control of this.  It is also the case that I have some problems:  I need to control 3 coils, not two!  And, secondly, all of this should work better when I get the acrylic rods that I have ordered, which should allow me to make a much better system.
+
+But in a sense this is a breakthrough---I now have an Arduino partially controlling a linear actuator.  So now my purpose must be to obtain full control.
+
+I will attempt to be Agile: I will attempt to make a publishable, open source actuator (however poor it is) at the end of each sprint.
+
 
