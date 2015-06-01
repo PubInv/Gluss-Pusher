@@ -100,4 +100,8 @@ But in a sense this is a breakthrough---I now have an Arduino partially controll
 
 I will attempt to be Agile: I will attempt to make a publishable, open source actuator (however poor it is) at the end of each sprint.
 
+Note: It is possible that with diodes, I could easily multiplex this positive/negative voltage which this shield allows to control four coils especially if we are using an iron core and not a magnet core.  That would allow me to potentially build my initial working prototype.
+
+My basic problem at the moment is how to build a good prototype this sprint.
+
 
