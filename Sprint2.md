@@ -26,3 +26,6 @@ I now tried using the second "kicker" coil.  It DOES indeed seem to allow me to 
 
 I am now tempted to make the acrylic piston, in order to avoid the slight friction inherent in my taped-up magnet carrier.
 
+NOTE: By reducing the duty cycle on the second coil (to 20% in the case above), I greatly abate the problem of overheating of that coil (I used very thin wire on that coil.)
+
+
