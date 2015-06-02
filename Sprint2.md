@@ -20,3 +20,9 @@ However, I am going back to using my 1/2" Neodymium magnets and my large tube, a
 
 Using the arduino, I can now pop the carrier back and forth, though with only one coil I can't control it.  The 2 amp limit is no problem with the bigger magnets.  Occasionally the carrier gets stuck in one place, and slight touch moves it.  I hope to improve that.  Unfortunately, I have to take my machine apart in order to do that.
 
+June 2nd, 2015
+
+I now tried using the second "kicker" coil.  It DOES indeed seem to allow me to control the direction of motion.  Using this coil turned on for 100 ms before and after firing the main coil, I can make it go completely to the left or completely to he right (by switching the terminals on the second coil.)  It is not 100% reliable, but it does work. 
+
+I am now tempted to make the acrylic piston, in order to avoid the slight friction inherent in my taped-up magnet carrier.
+
