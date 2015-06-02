@@ -28,4 +28,6 @@ I am now tempted to make the acrylic piston, in order to avoid the slight fricti
 
 NOTE: By reducing the duty cycle on the second coil (to 20% in the case above), I greatly abate the problem of overheating of that coil (I used very thin wire on that coil.)
 
+NOTE: I would now like to use a button press to initiate left and right action. I bought a kit that has two buttons (tiny, and weird), which I have not used.  I will have to put them on a breadboard, but let me use that.
+
 
