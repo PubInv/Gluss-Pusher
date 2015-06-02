@@ -30,4 +30,9 @@ NOTE: By reducing the duty cycle on the second coil (to 20% in the case above), 
 
 NOTE: I would now like to use a button press to initiate left and right action. I bought a kit that has two buttons (tiny, and weird), which I have not used.  I will have to put them on a breadboard, but let me use that.
 
+Evening:
+
+I constructed a 10-magnet piston out of acrylic tube.  Unfortunately, it has too much weight and friction, it doesn't slide easily.  I need to both lubricate it better and move to an Acrylic Tube (just a little thinner) and possibly try to improve my coils.  If I could double the number of turns on my coil (which is not trivial), that could really make a big difference.
+
+
 
