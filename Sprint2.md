@@ -54,4 +54,18 @@ So now we must ask ourselves: what is the greatest learning capability for the l
 
 So I am tempted to rewind my coils at present, and see if I can get significant motion that way.
 
+I rewound the coil, and it is much more powerful in the tighter configuration.  I am pretty happy about that.  Unfornuately, my lack of bearings is really creating a problem.  I really need to create a better bearing in some way even to test this.  Obviously you can buy them, although they are a little hard to find at low cost.
+
+Also, I don't be believe my program is quite operating correctly at the moment.
+
+* * *
+
+Resolved:
+
+I think I need to do several things:
+
+* A really need to create roller bearings.  I believe I can do this out of finishing tails or other nails placed in proper holes, or by using aluminium rods (or even plastic rods.)
+* I MUST find a better way to make coils.  If necessary, I must manufacture the frames myself.  A proper frame HAS to have rails to keep the edges contained and MUST be stiff enough to not change diameter when wrapped tightly.
+* I can put an aluminum tube in my acrylic tube to hold my magnets precisely.  If precise enough, we should be able to use multiple coils, which in practice may be a big advantage.
+
 
