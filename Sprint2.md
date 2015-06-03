@@ -44,6 +44,14 @@ BTW, you can really feel a big difference at 5 amps vs 2 amps.  I suspect 5 amps
 
 Note that at 5 amps my coil gets hot quickly.  The whole idea of this system is to have a low-duty-cycle system, which IS possible with Arduino control, but is hard to do with just my power supply by hand.
 
+Observation: My think (30 AWG) magnet wire gets RIDICULOUSLY hot at 5 amps in about 1/2 of a second.  Obviously that will have to be used with a very low duty cycle in that case.
+
 And BTW, Acrylic is not a good plastic to use for this kind of work.  It is terribly soft and not very slick.  It looks nice, though.
+
+Idea: Right now I am wrapping the coil around the outside of the pipe.  This is confusing the electrical and mechanical system.  I could cut the outer pipe --- that is, essentially using two structural pipes on the outside, I could decrease the area of the coil by the diamter of the outer pipe --- that is, using only the thinnest membrane to protect the pipe.
+
+So now we must ask ourselves: what is the greatest learning capability for the least effort?  Although I clearly need to quit using the motor shield and design my own circuit that allows more power to be dumped quickly into the coil, that will take some time.
+
+So I am tempted to rewind my coils at present, and see if I can get significant motion that way.
 
 
