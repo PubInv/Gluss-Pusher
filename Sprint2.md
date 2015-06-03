@@ -34,5 +34,16 @@ Evening:
 
 I constructed a 10-magnet piston out of acrylic tube.  Unfortunately, it has too much weight and friction, it doesn't slide easily.  I need to both lubricate it better and move to an Acrylic Tube (just a little thinner) and possibly try to improve my coils.  If I could double the number of turns on my coil (which is not trivial), that could really make a big difference.
 
+June 3rd, 2015
+
+Some learnings:
+
+I tried using baby oil as a lubricant for Acrylic-on-PVC.  As far as I can tell, it deosn't help much.  Nor does it make Acrylic-on-Acrylic better. Basically, I need to go to a bearing system of some kind.  This is a huge mechanical complication, though I suppose that I can must do it.
+
+BTW, you can really feel a big difference at 5 amps vs 2 amps.  I suspect 5 amps would overcome a lot of the problems I am having --- but the Motor shield doesn't support that.  So basically I have to either make my own circuit (which is entirely possible, but a cost in time), or possibly by simplying winding a better coil (and taking advantage of a slightly different smaller diameter for my outside pipe to get more windings on there.
+
+Note that at 5 amps my coil gets hot quickly.  The whole idea of this system is to have a low-duty-cycle system, which IS possible with Arduino control, but is hard to do with just my power supply by hand.
+
+And BTW, Acrylic is not a good plastic to use for this kind of work.  It is terribly soft and not very slick.  It looks nice, though.
 
 
