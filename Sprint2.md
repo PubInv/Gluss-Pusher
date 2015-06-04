@@ -76,4 +76,7 @@ FLASH -- I've been making a stupid mistake. By making my coils too wide in a clu
 
 Also, I need to get some nylon tubing --- the Acrylic is the least-slick plastic in the world.
 
+TODO:
+* Build a spool precisely 1/2" wide and try it with 30 gage wire.
+
 
