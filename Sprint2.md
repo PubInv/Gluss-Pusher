@@ -68,4 +68,12 @@ I think I need to do several things:
 * I MUST find a better way to make coils.  If necessary, I must manufacture the frames myself.  A proper frame HAS to have rails to keep the edges contained and MUST be stiff enough to not change diameter when wrapped tightly.
 * I can put an aluminum tube in my acrylic tube to hold my magnets precisely.  If precise enough, we should be able to use multiple coils, which in practice may be a big advantage.
 
+* * *
+
+June 4, 2015
+
+FLASH -- I've been making a stupid mistake. By making my coils too wide in a clumsy attempt to pack more turns on, I have been spreading the North and South poles, thereby actually create a "dead point" -- a slightly stable point when the polarity is reversed.  Although I find making coils a tedious pain, I really need to create a narrower coil (I am using 1/2" magnets, a 3/8" long coil would be ideal) in order to see if that eliminates the dead point and allows me finer positioning control of the destabilizing coil!!!
+
+Also, I need to get some nylon tubing --- the Acrylic is the least-slick plastic in the world.
+
 
