@@ -79,4 +79,7 @@ Also, I need to get some nylon tubing --- the Acrylic is the least-slick plastic
 TODO:
 * Build a spool precisely 1/2" wide and try it with 30 gage wire.
 
+I THINK the new spool is a success. It doesn't seem to have a deadpoint, but it is very hard for me to separate this issue from the bearing issue.
+
+I now need to make another spool for the quarter-phase kicker, and then somehow build a better frame with a better bearing for the piston.
 
