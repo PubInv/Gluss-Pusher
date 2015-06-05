@@ -83,3 +83,15 @@ I THINK the new spool is a success. It doesn't seem to have a deadpoint, but it 
 
 I now need to make another spool for the quarter-phase kicker, and then somehow build a better frame with a better bearing for the piston.
 
+* * *
+
+## Close of sprint
+
+I think I am very close to a working, controllable system.  Unfortunately, I have to put this down for the weekend to prepare for and champion a team at the ATX Hack for Change Hackathon for Engineers Without Borders.
+
+If I can pick this up on Monday, I want to:
+
+* Create the quarter-period coil using a similar sturdy system to the main coil,
+* Create some sort of home-made bearing better than what I have been using to decrease resistance.
+
+When these things are done, I think I should be ready for a real test.  If that works, I will be ready to post a video and explore a huge number of possible improvements.
