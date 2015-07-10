@@ -104,4 +104,22 @@ Note: It is possible that with diodes, I could easily multiplex this positive/ne
 
 My basic problem at the moment is how to build a good prototype this sprint.
 
+* * *
+
+July 10, 2015
+
+I put this project down for six weeks because I was working as a consultant and focusing on the [ATX Preemie Warmer](http://pifah.github.io/ATX-Preemie/), including work in two hackathons.
+
+Today, for the first time in six weeks, I have come back to the project, and I am happy to report that with a two-coil solution I now can reliably (almost) move left and right with in 1/2" increments with only 12 V power.
+
+This is not really publication ready---I need to make a breakthrough and explain the control mathematics.  (It is barely worthy of the title mathematics, but it isn't completely trivial.)  This is very exciting.  I need to publish this intermediary result and then figure out what to do next.
+
+Just off the top of my head, there are several directions I go:
+* Publish an instructable on how to completely duplicate the work.
+* Try to figure out if it is completely trivial or actually interesting.
+* Improve the manufacturing/crafting approach.
+* Improve the ability to assert position control and handle the problem of when it is off.
+* Work on practical solutions.
+
+
 
