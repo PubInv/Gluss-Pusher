@@ -31,3 +31,7 @@ The whole system is also thus becoming more "alive" --- it could tell when it is
 # Idea: Universal rotation system
 
 It would be really lovely if we got the above system working and then builded a true 3-degree of rotational freedom joint using the principle of geodesic dome construction to produce radail "combs" that could interact in the same way.  Imagine an omni-triangulated robot that had true 3-DOF manipulators!  All basically built with nothing but magnets and coils.  The geometric design freedom would be tremendous.
+
+# Idea: (For Demonstration) An winged man costume...
+
+This is sort of a cosplay idea.  Build a chest harness that has a back or chest keel.  Attach wings.  Have the linear actuator drive the wings based on buttons actuated by the hands (or in a harness.)
