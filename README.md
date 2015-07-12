@@ -121,5 +121,12 @@ Just off the top of my head, there are several directions I go:
 * Improve the ability to assert position control and handle the problem of when it is off.
 * Work on practical solutions.
 
+* * *
+
+Apparently Tensegrity Robots are a thing:
+
+http://creativemachines.cornell.edu/tensegrity
+
+
 
 
