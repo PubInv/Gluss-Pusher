@@ -60,9 +60,11 @@ Basically I reinvented this:
 
 http://en.wikipedia.org/wiki/Tubular_linear_motor
 
-This article looks like a good one:
+I attempted to read this article:
 
 http://eprints.whiterose.ac.uk/852/1/wangjb15.pdf
+
+I'm afraid I don't know enough about magnetism to really follow the equestions.  The purpose of this paper is to provide a model for linear permanent magnet machines.  I think it would be very valuable if you trying to optimize a design, or understand the force/current/voltage relationship. It is hard for me to understand exactly how to use this research.
 
 
 And so now I must ask the question: Why can't we get a cheap one of these for hobbyist?
