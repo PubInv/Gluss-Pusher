@@ -1,8 +1,9 @@
 # Linear-Actuator
 
-  <blockquote>
-        <p>The purpose fot he Coil Gun Actuator (CGA) is to enable new kinds of modular machines by making components cheap enough for hobbyist to build giant robots.</p>
-    </blockquote>
+
+### "The purpose fot he Coil Gun Actuator (CGA) is to enable new kinds of modular machines by making components cheap enough for hobbyist to build giant robots."
+
+
 
 Attempt to create simple, cheap linear actuator for giant robots and other tasks
 
