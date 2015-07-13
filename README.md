@@ -79,6 +79,11 @@ http://machinedesign.com/news/linear-actuators-get-servo-look
 
 So the terms "linear motor", "direct drive actuator", "tubular permantne magnet motor" are all used in this area.  The central rod should probably be called the "thrust rod".
 
+This PhD Thesis looks excellent by Bryan P. Ruddy looks excellent:
+
+http://hdl.handle.net/1721.1/78177
+
+
 
 * * *
 
