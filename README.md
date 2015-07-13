@@ -83,6 +83,8 @@ This PhD Thesis looks excellent by Bryan P. Ruddy looks excellent:
 
 http://hdl.handle.net/1721.1/78177
 
+Reading Ruddy's dissertaton, it seems like the real contribution that I can make here is to move this out of the laboratory and into the realm of practice.  If we can make this kind of work available to hobbyist and the maker moverment, it seems that we could make very rapid progress on a really fundamental technology.
+
 
 
 * * *
