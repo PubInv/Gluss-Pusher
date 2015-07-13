@@ -73,6 +73,13 @@ This firm seems to make great ones, but doesn't list prices, so one can assume t
 
 http://www.linmot.com/fileadmin//user_upload/Downloads/databooks/0185-1100-E_1V0_Product_Overview.pdf
 
+Here is a nice description:
+
+http://machinedesign.com/news/linear-actuators-get-servo-look
+
+So the terms "linear motor", "direct drive actuator", "tubular permantne magnet motor" are all used in this area.  The central rod should probably be called the "thrust rod".
+
+
 * * *
 
 I apologize for not putting all my notes up immediately---things change rather rapidly. (I have now put photos and notes in the Sprint0.md file.
