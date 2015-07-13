@@ -60,6 +60,11 @@ Basically I reinvented this:
 
 http://en.wikipedia.org/wiki/Tubular_linear_motor
 
+This article looks like a good one:
+
+http://eprints.whiterose.ac.uk/852/1/wangjb15.pdf
+
+
 And so now I must ask the question: Why can't we get a cheap one of these for hobbyist?
 
 This firm seems to make great ones, but doesn't list prices, so one can assume they are expensive:
