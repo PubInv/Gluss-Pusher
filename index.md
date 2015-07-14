@@ -15,7 +15,9 @@ Ever sense the mid '80s when I learned of the [octet truss](https://www.google.c
 
 <img src="https://patentimages.storage.googleapis.com/pages/US2986241-2.png" alt="Octet Truss from Bucky's 1961 patent" style="width:50%">
 
-This would be a truss that could slowly ooze like a slug--"a gluss".  Rather than attempt to biomimic bipedal humanoids, we should mimic the simplest of life forms: molluscs, worms, and amoebae. The notion of a building a robot that uses wheels should be right out.
+Imagine if the space frame pictured above could curl and warp. Imagine a corner elongate to become a pseudopod or a tentacle. This would be a truss that could slowly ooze like a slug---"a gluss".  Rather than attempt to biomimic bipedal humanoids, we should mimic the simplest of life forms: molluscs, worms, and amoebae. The notion of a building a robot that uses wheels should be right out.
+
+<img src="https://cloud.githubusercontent.com/assets/5296671/7195220/c062264c-e481-11e4-9de6-ec7c8a77502d.png" alt="2 Dimensional Gluss Reaching Over a Person" style="width:50%">
 
 Many others have proposed building robots out of many interchangable components, even [tensegrity based robots](https://www.youtube.com/watch?v=wR0AlIwEgSE), another Bucky-inspired approach. However, these systems been addressed by Universities and Research labs. I believe the time has come to apply the tremdendous energy and creativity of Maker movement to the construction of glusses.
 
