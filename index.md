@@ -41,6 +41,7 @@ With an appropriate bit of Arduino coding, we have created a linear "stepper" mo
 We should avoid creating solutions in search of a problem.  But we should also not be afraid to play.  This is a playful project; I don't feel compelled to figure out exactly what the best use of the Gluss Pusher might have.
 
 Nonetheless, here are some ideas:
+
 * Let's build a Gluss that can act as a pedestrian bridge across a road that can be quickly installed.  In Austin, this is needed all the time---we have festivals that bring out ten thousand pedestrians who have to cross a road.  I think something that could fit inside the bed of an F150 pickup truck, unroll itself to form a bridge spanning a good distance with a good height and hold position long enough for "cotter pins" to be stuck into the pushers so they will hold position without power would be very useful.
 * A cheap plotter could be made by taking two Gluss Pushers and forming a triangle with a rigid member. This could be hung on a wall with a sheet of paper behind it.  The intersection of the two moving Gluss Pushers could then be controlled to draw/scribe/cut/paint whatever shape you want.  It is easy to see how this idea could be expanded to 3-space to make a 3D printer, and so on.
 * Let's build a burrowing robot that is capable of burrowing throught sand and mud, for example at the beach, to take samples of the benthum as a reasearch tool.
