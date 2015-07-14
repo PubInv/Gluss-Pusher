@@ -1,1 +1,119 @@
-My Page
+---
+layout: default
+title: ATX Preemie Warmer Main Page
+---
+
+<section class="content">
+
+      <!-- Main jumbotron for a primary marketing message or call to action -->
+      <div class="jumbotron">
+            <p></p>
+            <p></p>
+        <h1> ATX Preemie Warmer v 0.1 Alpha</h1>
+      </div>
+
+<h2> Purpose </h2>
+
+
+<p>
+Every year across the world, many low-birth weight babies die, in part because they do not have access to advanced medicine.
+</p>
+<p>
+The ATX Preemie Warmer project is an open-source hardware and software project to try to address this problem. All work here is sharable under the GPL (for source code) or the Creative Commons Share Alike license (for hardware designs).
+</p>
+
+<p>
+Our three-minute video is a good <a href="https://youtu.be/zb-F0qTptJs">introduction</a>.
+</p>
+
+
+The ATX Preemie Warmer may be valuable:
+<ul>
+<li> When <a href="https://en.wikipedia.org/wiki/Kangaroo_care">Kangaroo Care</a> is impossible or as a temporary complement to Kangaroo Care,
+<li> As an open-source example from which other low-cost, low-power medical projects may be developed, and
+<li> As an example of using inexpensive technology to address other real world problems, such as a petrifilm incubator.
+</ul>
+
+<a title="By Polihale (Own work) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0) or GFDL (http://www.gnu.org/copyleft/fdl.html)], via Wikimedia Commons" href="http://commons.wikimedia.org/wiki/File%3AMom_and_Premature_Baby_at_Kapiolani.jpg"><img width="512" alt="Mom and Premature Baby at Kapiolani" src="//upload.wikimedia.org/wikipedia/commons/2/20/Mom_and_Premature_Baby_at_Kapiolani.jpg"/></a>
+
+
+<h2> Approach and History </h2>
+
+<p>
+An Arduino-based, heating pad-style solution was originally suggested by Stewart Holloway of the Austin Chapter of Engineers without Borders.
+
+<p>
+Robert L. Read developed a prototype, and then led a team to improve it at the <a href="http://publicinvention.blogspot.com/2015/06/report-atx-hack-for-change-2015-preemie.html">ATX Hack for Change</a> Hackathon.
+
+<p>
+<IMG src="https://cloud.githubusercontent.com/assets/5296671/8139635/c4ecdfe8-111a-11e5-9b13-d6a04c1e1871.jpg" width="500"
+     alt="The ATX Preemie Warmer v 0.1 Physical Components">
+<p>
+The photo above depicts all the components of the ATX Preemie Warmer.  The cloth swaddle is easily made from cotton
+cloth or even old t-shirts and a shoestring.  The Arduino uses a temperature sensor to control battery power to the a heating cloth.  As little as 6 Volts is sufficient.  We are aiming for the level of battery power that people in the developing world use to charge cell phones.
+Two simple pieces of foam core placed beneath the heating cloth in the plaid pocket insulate the back of the system, making it far more power efficient.
+<p>
+We use the doll as a test object, as well as baggies full of water to represent realistic thermal masses.
+
+<h2> Status </h2>
+
+Version 0.1 Alpha of the ATX Preemie Warmer:
+<ul>
+<li> Is able to maintain body temperature of realistic masses with 6-12 Volt battery power,
+<li> Currently has a $49 Bill-of-materials that can be decreased with further development,
+<li> Is constructable with basic, commonly available tools and materials, and
+<li> Is potentially applicable to other problems, such as incubating Petrifilm for water quality testing.
+</ul>
+
+Although partically successful in the sense that it is working and inexpensive, many obstacles exist to deploying this in a way that actually saves lives.
+We have spoken to three medical professionals with experience in developing nations. They are somewhat skeptical of the usefulness of this device.  Our most pressing need right now is for more discussion with experienced health professionals to learn if, and how, the ATX Preemie Warmer could be a practical benefit. If you have relevant knowledge or experience, please contact us.
+<p>
+We may not actively work on the next version (0.2 Alpha) until we get validation from medical personnel or additional volunteers excited about the project---so if you are interested in this project, please contact us.
+
+<h2> Duplication and Getting Involved </h2>
+
+In the <a href="https://github.com/PIFAH/ATX-Preemie">ATX-Preemie repo</a>, you will find a wealth of information about both the hardware, sewing, and software components of the project.  We are currently endeavoring to make it entirely possible to completely reproduce this version of the Warmer. As with all open source projects, please contribute by contacting us, or by making a <a href="https://help.github.com/articles/using-pull-requests/">pull-request</a>.
+
+<ul>
+<li> Complete <a href="https://github.com/PIFAH/ATX-Preemie/blob/master/BillOfMaterials.md">Bill of Materials</a>.
+<li> Sewing <a href="https://github.com/PIFAH/ATX-Preemie/blob/master/ATXPreemieWarmerSwaddleInstructions.md">instructions</a> for making the swaddle.
+<li> Arduino <a href="https://github.com/PIFAH/ATX-Preemie/blob/master/IncubatorRelayV0.4.ino">code</a> for the Incubator.
+<li> Arduino <a href="https://github.com/PIFAH/ATX-Preemie/blob/master/Artificial_Infant.ino">code</a> for Artificial Test Preemie.
+<li> Python <a href="https://github.com/PIFAH/ATX-Preemie/blob/master/arduino_read.py">code</a> for recording temperature over time.
+<li> <a href="https://github.com/PIFAH/ATX-Preemie/blob/master/MOSFET_incubator_circuit.md">Notes</a> on the construction of the MOSFET power control circuit
+<li> <a href="https://github.com/PIFAH/ATX-Preemie/blob/master/heat_swaddle_experiment_notes.md">Notes</a> on our experiments keeping a heat mass at body temperature with low power.
+<li> <a href="https://github.com/PIFAH/ATX-Preemie/blob/master/Incubator_node_red_flow.txt">Configuration</a> file for NodeRed, used during our hackathon to record data.
+<li> <a href="https://github.com/PIFAH/ATX-Preemie/blob/master/battery_research.md">Research</a> into batteries.
+<li> <a href="https://github.com/PIFAH/ATX-Preemie/blob/master/ideas.md">Ideas</a>, especially for the next version.
+</ul>
+
+If you want to potentially save lives, empower people with limited resources, and have fun building Arduino projects, please contact me (Robert L. Read, <read.robert@gmail.com>, @RobertLRead) and lets figure out how you can have fun helping with this project. The <a href="https://github.com/PIFAH/ATX-Preemie/issues">issues</a> represent a variety of valuble ways to hack this project forward.
+
+<h2> Other Solutions</h2>
+
+<h3>Kangaroo Care</h3>
+
+<a href="https://en.wikipedia.org/wiki/Kangaroo_care">Kangaroo Care</a> is an approach that emphasized early and continuous skin-to-skin contact with the parent. We do not wish this project to discourage Kangaroo Care. Hopefully our project provides a helpful alternative when Kangaroo Care is not possible.
+
+
+<h3>Embrace</h3>
+
+The project is begin addressed by <a href="http://embraceglobal.org">Embrace Global</a>. However, that project supports a for-profit company, and it is not an open-source solution. 
+
+<h3>IncuBaby</h3>
+
+A team of students at Rice University has designed a low-cost (< $250) box-style <a href="http://oedk.rice.edu/Sys/PublicProfile/25543138/3637470">incubator</a> that can be inexpensively shipped.  This approach is more expensive but perhaps complementary to the ATX Preemie Warmer. It is unclear if their design is open source, and if it uses grid-based power or battery power. I would like a member of this team to contact me.
+
+<h4> Image Attributions</h4>
+
+"Mom and Premature Baby at Kapiolani" --
+By Polihale (Own work) <a href="http://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0 http://creativecommons.org/licenses/by-sa/3.0 or GFDL (http://www.gnu.org/copyleft/fdl.html)</a>, via Wikimedia Commons
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+

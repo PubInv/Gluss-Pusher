@@ -1,0 +1,21 @@
+---
+layout: default
+title: Blog Posts
+---
+
+<section class="content">
+
+      <!-- Main jumbotron for a primary marketing message or call to action -->
+      <div class="jumbotron">
+        <h1> Temporal Announcements</h1>
+      </div>
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
+</section>
