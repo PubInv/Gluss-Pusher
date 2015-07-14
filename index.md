@@ -13,7 +13,7 @@ Enable makers to build new kinds of machines and robots form cheap easy-to-contr
 
 Ever sense the mid '80s when I learned of the [octet truss](https://www.google.com/patents/US2986241?dq=octet+truss+Buckminster+Fuller&hl=en&sa=X&ved=0CB0Q6AEwAGoVChMIpI3Py6fZxgIVVxmSCh2c9QzE) while reading about Buckminster Fuller I have dreamed about replacing each strut in the octet truss with a component that could change its length.
 
-![Octet Truss from Bucky's 1961 patent](https://patentimages.storage.googleapis.com/pages/US2986241-2.png "Octet Truss from Bucky's 1961 patent")
+<img src="https://patentimages.storage.googleapis.com/pages/US2986241-2.png" alt="Octet Truss from Bucky's 1961 patent" style="width:50%">
 
 This would be a truss that could slowly ooze like a slug--"a gluss".  Rather than attempt to biomimic bipedal humanoids, we should mimic the simplest of life forms: molluscs, worms, and amoebae. The notion of a building a robot that uses wheels should be right out.
 
