@@ -3,7 +3,7 @@
 This is the working branch; if this is your first time here you probably want to go to our [public website](http://pifah.github.io/Gluss-Pusher/) first.
 
 
-### "The purpose fot he Coil Gun Actuator (CGA) is to enable new kinds of modular machines by making components cheap enough for hobbyist to build giant robots."
+### "The purpose of the Gluss Pusher is to enable new kinds of modular machines by making components cheap enough for hobbyist to build giant robots."
 
 
 
