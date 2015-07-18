@@ -155,6 +155,12 @@ Apparently Tensegrity Robots are a thing:
 
 http://creativemachines.cornell.edu/tensegrity
 
+* * * 
+
+July 18th
+
+I've been working with my cousin, Ethan Read.  Yesterday I bought a relay shield.  Using the control [program](https://github.com/PIFAH/Gluss-Pusher/blob/master/RelayShieldGlussV0.1.ino) recently uploaded for controlling the SeeedStudio Relay Shield v2.1, I can now move fairly rapidly (about 1" per 100 ms), and reliably.  Unfortunately, even a small load messes me up, in part because my power supply is limiting me to 2 amps per channel.  Nonetheless I think this is a really strong showing for something so home-made which has no bearings and doesn't have a sensor at all.  Many improvements are clearly possible.
+
 
 
 
