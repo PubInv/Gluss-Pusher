@@ -161,6 +161,20 @@ July 18th
 
 I've been working with my cousin, Ethan Read.  Yesterday I bought a relay shield.  Using the control [program](https://github.com/PIFAH/Gluss-Pusher/blob/master/RelayShieldGlussV0.1.ino) recently uploaded for controlling the SeeedStudio Relay Shield v2.1, I can now move fairly rapidly (about 1" per 100 ms), and reliably.  Unfortunately, even a small load messes me up, in part because my power supply is limiting me to 2 amps per channel.  Nonetheless I think this is a really strong showing for something so home-made which has no bearings and doesn't have a sensor at all.  Many improvements are clearly possible.
 
+* * *
+
+Idea: build a 3-pusher robot hung from a frame that is capable of turnning a compost pile.
+
+* * *
+
+I believe the fundamental things to do now are:
+
+* To install sensors to be able to reliably read position.
+* To improve the strength to bear loads, possibly be remvoing the 2-amp restriction imposed by my power supply. I imagine that using capacitors here could be extremely valuable.
+* Possibly purchase a linear actuator to understand comparative performance.
+
+So far, I have demonstrated the construction of an interesting toy. By increasing reliability and strength, I may reify a gluss pusher at a useful price point.
+
 
 
 
