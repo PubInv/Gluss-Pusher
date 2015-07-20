@@ -35,3 +35,9 @@ It would be really lovely if we got the above system working and then builded a 
 # Idea: (For Demonstration) An winged man costume...
 
 This is sort of a cosplay idea.  Build a chest harness that has a back or chest keel.  Attach wings.  Have the linear actuator drive the wings based on buttons actuated by the hands (or in a harness.)
+
+# Idea: Using Ferrofluid in a tube to extend the reach of the linear motor...
+
+A fundamental problem with my current desigs is that you can only have so many magnets in contact with some many coils.  The higher the number in proximity, the more efficiency you have, but the lower stroke length.  The higher the stroke length, the more magnets or coils are wasted.  This could be changed by some complicated repositioning, but it would seem only at the expense of great complication to the moving parts.
+
+However, what if ferrofluid confined to a tube would allow us to to make a magent of essentially changing length?  Then we could magnetize the thing with a single coil in a static position, but move the end (and the point of greatest flux change) to any position within the tube.
