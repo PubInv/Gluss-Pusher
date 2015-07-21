@@ -9,6 +9,10 @@ title: Gluss Pusher Main Page
 
 Enable makers to build new kinds of machines and robots form cheap easy-to-control modular linear motors, or pushers.
 
+## Demo
+
+A [short video](https://youtu.be/o0czhRU1vQM?t=5s) shows our current progress.
+
 ## The Story
 
 Ever sense the mid '80s when I learned of the [octet truss](https://www.google.com/patents/US2986241?dq=octet+truss+Buckminster+Fuller&hl=en&sa=X&ved=0CB0Q6AEwAGoVChMIpI3Py6fZxgIVVxmSCh2c9QzE) while reading about Buckminster Fuller I have dreamed about replacing each strut in the octet truss with a component that could change its length. 
