@@ -50,6 +50,7 @@ Nonetheless, here are some ideas:
 * A cheap plotter could be made by taking two Gluss Pushers and forming a triangle with a rigid member. This could be hung on a wall with a sheet of paper behind it.  The intersection of the two moving Gluss Pushers could then be controlled to draw/scribe/cut/paint whatever shape you want.  It is easy to see how this idea could be expanded to 3-space to make a 3D printer, and so on.
 * Let's build a burrowing robot that is capable of burrowing throught sand and mud, for example at the beach, to take samples of the benthum as a reasearch tool.
 * I believe a system of Gluss Pushers could make an excellent Robot Leg.
+* Build a machine that you position above ground like a tripod (but wider). From the center of the machine, Gluss Pushers, or some other actuator, comes down and operates on the earth. You can use it to dig a garden or a part of a trench, turn a compost pile, weed a garden (if you program the senors well enough), pull carrots, scour concrete, etc. We could build this out of existing actuators to show it working first with control before attempting to decrease the cost by using our own linear motors.
 
 
 
@@ -60,6 +61,26 @@ As you can see, the initial design is primitive. You are probably thinking of my
 
 The Gluss Pusher project is part of [Public Invention for All Humanity (PIFAH)](https://github.com/PIFAH/PIFAH), and is therefore dedicated to publishing everything as free and open source--both hardware designs and software. PIFAH is dedicated to the benefit of all humanity.
 
+## Current TODO
+
+At present, I believe that we can control the position precisely by controlling the force on the two coils in dynamic balance.  Unfortunately, I do not have a proper servo control that is both sufficiently powerful and which provides analog control.
+
+I have used a SeeedStudio Relay shield to allow greater power to be applied (which has been successful). However, this does not allow analog control---you either turn it on or off.
+
+Furthermore, although I have nice programmable power supply, it is limited to 2 amps, which is not enough in this circumstance to provide the force that I desire.
+
+So my current list of things to do is:
+* Get a power supply that allows me to draw up to 4 amps (approximately 13 V at my current coil resistance.)
+* Test my ability to interact through the serial port with the arduino to allow interactive control.
+* Add Hall effect sensors to detect when we have failed to move correctly.
+* Construct an actuator shaft.
+* Write a drive that will tell you position based on the sesnors (through serial port, I suppose.)
+* Make a 3-D printer design for the coils and sensors.
+* I would like to do better engineering and measure the efficiency of the machine in terms of force in Newtons applied at a given voltage (or wattage.)
+* Make a scalable address system that allows us to coordinate several Gluss Pushers jointly.
+* I believe that for $450 I could build the earth-moving robot based on Phidgets [components](http://www.phidgets.com/products.php?product_id=3548) which would be very educational.  However, I don't think you could build a 30-component Gluss very effectively with that system.  But perhaps it is a duty to try that first.
+
+All of this is driving toward a single goal: producing a demo and a set of replication instructions that allows others to build Gluss Pushers reliably and at low cost.
 
 <ul>
   {% for post in site.posts %}
