@@ -69,7 +69,8 @@ I have used a SeeedStudio Relay shield to allow greater power to be applied (whi
 
 Furthermore, although I have nice programmable power supply, it is limited to 2 amps, which is not enough in this circumstance to provide the force that I desire.
 
-So my current list of things to do is:
+So my current list of things TODO is:
+
 * Get a power supply that allows me to draw up to 4 amps (approximately 13 V at my current coil resistance.)
 * Test my ability to interact through the serial port with the arduino to allow interactive control.
 * Add Hall effect sensors to detect when we have failed to move correctly.
