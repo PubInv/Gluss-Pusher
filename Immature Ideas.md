@@ -41,3 +41,9 @@ This is sort of a cosplay idea.  Build a chest harness that has a back or chest 
 A fundamental problem with my current desigs is that you can only have so many magnets in contact with some many coils.  The higher the number in proximity, the more efficiency you have, but the lower stroke length.  The higher the stroke length, the more magnets or coils are wasted.  This could be changed by some complicated repositioning, but it would seem only at the expense of great complication to the moving parts.
 
 However, what if ferrofluid confined to a tube would allow us to to make a magent of essentially changing length?  Then we could magnetize the thing with a single coil in a static position, but move the end (and the point of greatest flux change) to any position within the tube.
+
+# Idea: use the comb and rotational magnets to produce latches....
+
+Probably these need to latch in both directions to get the wedge effect, but that should be entirely possible.  I believe that by placing extra magnets in the carrier (not the push rod) and simply having them rotate out of the way in the presence of an applied B-field (which is easy to achieve), we should be able to make a physically strong latching system, at the cost of some increased weight in the carrier.  This would make a capactitor based "pump-and-rest" system more reasonable, and avoid us enterring a heavy duty cycle.
+
+
