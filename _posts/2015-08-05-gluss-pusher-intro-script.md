@@ -231,6 +231,15 @@ get paid, but am volunteering my time. There are not many people who
 have the good fortune and freedom to do something like that, and I'm
 hoping to make the most of it, possibly with your help.
 
+I suspect trying to run an open-source hardware project like this will
+be harder than runnign an open-source software project, because the
+number of people who have an interest, and the modest amount of money
+needed to purchase tools and supplies, is much lower than people
+capable of working on pure software projects. Nonetheless I feel
+called to try this, and to expand the Free-and-open source mentality
+to hardware projects, and even invention, as much as possible.
+
+
 Obviously, people interested in physics, electronics, and robotics can
 help this project.  However, I believe true creativity comes when
 well-rounded teams are formed.  I would love to have an artist make
