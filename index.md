@@ -85,11 +85,4 @@ So my current list of things TODO is:
 
 All of this is driving toward a single goal: producing a demo and a set of replication instructions that allows others to build Gluss Pushers reliably and at low cost.
 
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
 
