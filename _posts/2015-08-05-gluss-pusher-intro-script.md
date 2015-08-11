@@ -55,7 +55,7 @@ find difficult:
 * Swim in a variety of ways.
 
 I hope this project creates a new subfield of endeavor that I
-call "glussionics". 
+call "glussionics". I hope controlling a gluss will become and interesting of field of research. The difficult problem of programming a gluss to climb over a building appears to exist in the thin boundary between the impossible and the trivial. The impossible need not be attempted, and the trivial is a poor use of our precious time.
 
 <h2>Existing Systems</h2>
 
@@ -76,11 +76,18 @@ I may purchase some of these devices to learn more about about
 them. I believe these systems are generally good machines---perhaps
 too good.  By
 that I mean, they are too heavy, too expensive, and too forceful, and
-too slow.  What we, the hobbyists who would attempt to make gluss
+too slow. 
+
+What we, the hobbyists who would attempt to make gluss
 robots really need, is something closer to a $10 or $20 price point to
 make building a 100-member gluss reasonable.  Additionally, an
 open-source hardware solution would allow us to experiment with
 different designs.
+
+I believe that if we can make it possible to build an interesting gluss for
+less than $1000, we will be able to harness the tremendous creativity of the
+make movement.  For example, 3D printing was first developed by Universities, but has exploeded in recent years as the price of a printer has gone down 
+allowing a large number of creative people to experiment with 3D printing.
 
 The Gluss Pusher projct is an attempt to make just that: an
 open-source hardware and software, inexpensive, easy-to-control
@@ -131,9 +138,9 @@ the Arduino can source.
 Whenever a coil is centered, the other coil is not---and application
 of voltage to the other coil will drive the the push rod left or right
 relative to the coil bobbins. Thus moving is always applying energy to
-alternating coils. The direction of the voltage to apply depends on
-which direction you want to go.  The Arduino stores this as a
-state. At present there is no ability to sense the state of the push
+alternating coils. The Arduino stores the state of which coil is centerred over a magnet, and which magnet it is over. 
+The direction of the voltage to apply depends on
+which direction you want to go. At present there is no ability to sense the state of the push
 rod.  If you move the push rod by hand or if a force prevents it
 moving, the Arduino program will do the wrong thing on its next
 command.
@@ -173,19 +180,24 @@ probably thinking of a dozen or so improvements that can be
 investigated right off the bat. Here are the ones that appeal to me
 most:
 
-* Make a 3-D printer design for the coils and sensors.
+* Make a 3-D printer design for the bobbin that holds the coils and sensors.
 * Add Hall effect sensors to detect when we have failed to move
   correctly.
 * Add color sensors that allow us to detect position from a cold start
   based on colors painted on the push rod.
-* Construct an actuator shaft for the bobbins so that we really have a
+* Construct an actuator shaft for the bobbin so that we really have a
 structural member.
-* Get a power supply that allows me to draw up to 4 amps
-  (approximately 13 V at my current coil resistance.)
 * A modular way to address many gluss members.
 
 So my basic plan is to work on these things in an attempt to build the
 2-member planar robot.
+
+<h2>Multiple sizes </h2>
+
+In addition to the "1/4" inch diamter magnet size, I have also build some working prototypes using 1/8" magnets.  One possibile advantage of the current 
+linear motor approach is that it may be possible to make smaller actuators than can be made using rotary motors and lead screws at a low cost.
+
+Even a very small, weak machine made from small gluss pushers would make a fun development platform so long as it was strong enough to move itself into programmable positions. Imagine a gluss composed of 200 members, each a mere 2" long, that could sit on your desk and quickly assume a menagerie of shapes.
 
 <h2>Part of PIFAH</h2>
 
@@ -249,6 +261,7 @@ entrepreneur might find a valuable use for glusses that we could aim
 to fulfil. Writers and marketers could help me recruit people to this
 project. So, if you have any interest or questions, please contact me
 by email: <read.robert@gmail.com>
+or visit our Github repositories, under the organization PIFAH.
 
 
 
