@@ -10,8 +10,9 @@ title: Gluss Pusher Intro Video Script
 
 <h2>Audience</h2>
 
-This video is primarily for the maker, inventor or engineer interested in
-electromechanics, alternative approaches to robotics, or even those
+This video is primarily for the maker, inventor or engineer interested in 
+robots or
+mechatronics, alternative approaches to robotics, or even those
 interested in kinetic sculpture or possibly cosplay.
 
 <h2>Project</h2>
