@@ -46,4 +46,6 @@ However, what if ferrofluid confined to a tube would allow us to to make a magen
 
 Probably these need to latch in both directions to get the wedge effect, but that should be entirely possible.  I believe that by placing extra magnets in the carrier (not the push rod) and simply having them rotate out of the way in the presence of an applied B-field (which is easy to achieve), we should be able to make a physically strong latching system, at the cost of some increased weight in the carrier.  This would make a capactitor based "pump-and-rest" system more reasonable, and avoid us enterring a heavy duty cycle.
 
+# Idea: using a twisting motion of the pushrod to lock it in place.
 
+The Gluss Pusher currently doesn't have a way to lock the pushrod in place.  One way would be to have tabs added to the push rod, and grooves in the channel with slots.  By rotating the pushrod, you would free it for vertical motion, and by rotating it back you would lock it in place.  The rotation could be done with magnets in the push rod, or even rollers.  I think this would make it a lot less elegant however.
