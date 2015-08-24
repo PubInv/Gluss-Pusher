@@ -18,8 +18,8 @@ and the new carbon-fiber pushrod work very effectively.  I will post a video of 
 
 ## Stories
 
-* Publish Fusion 360 designs
-* Publish STL file at Thing-i-verse
+* Publish Fusion 360 designs - done
+* Publish STL file at Thing-i-verse - done
 * Measure voltages produced by motion against coil in order to see if we can build closed-loop detection of our position.
 * Switch to using the motor controller to see if we can get micro-step control.
 * Cut Acrylic tube in order to have actuator stability.
