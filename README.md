@@ -1,4 +1,4 @@
-# Linear-Actuator
+# Gluss Pusher
 
 This is the working branch; if this is your first time here you probably want to go to our [public website](http://pifah.github.io/Gluss-Pusher/) first.
 
