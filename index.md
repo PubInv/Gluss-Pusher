@@ -15,9 +15,13 @@ A [short video](https://youtu.be/o0czhRU1vQM?t=5s) shows our current progress.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/o0czhRU1vQM" frameborder="0" allowfullscreen></iframe>
 
+A [longer video](https://youtu.be/cpzPVwBoE_4) gives a more complete introduction to the project.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cpzPVwBoE_4" frameborder="0" allowfullscreen></iframe>
+
 ## The Story
 
-Ever sense the mid '80s when I learned of the [octet truss](https://www.google.com/patents/US2986241?dq=octet+truss+Buckminster+Fuller&hl=en&sa=X&ved=0CB0Q6AEwAGoVChMIpI3Py6fZxgIVVxmSCh2c9QzE) while reading about Buckminster Fuller I have dreamed about replacing each strut in the octet truss with a component that could change its length. 
+Ever since the mid '80s when I learned of the [octet truss](https://www.google.com/patents/US2986241?dq=octet+truss+Buckminster+Fuller&hl=en&sa=X&ved=0CB0Q6AEwAGoVChMIpI3Py6fZxgIVVxmSCh2c9QzE) while reading about Buckminster Fuller I have dreamed about replacing each strut in the octet truss with a component that could change its length. 
 
 <img src="https://patentimages.storage.googleapis.com/pages/US2986241-2.png" alt="Octet Truss from Bucky's 1961 patent" style="width:50%">
 
@@ -86,3 +90,6 @@ So my current list of things TODO is:
 All of this is driving toward a single goal: producing a demo and a set of replication instructions that allows others to build Gluss Pushers reliably and at low cost.
 
 
+## Sprints
+
+We work in an "Agile" fashion. The sprints be found at the [main repo](https://github.com/PIFAH/Gluss-Pusher).
