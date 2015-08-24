@@ -42,3 +42,8 @@ PROBLEM: I need some sort of circuit for sensing negative voltage as well.
 
 However, given the fact that I can apparently sample very quickly and compute all of this, I think we should be able to write a robust "did I move" function or even "apply energy until I move."
 
+Note that we need to protect the system from overvoltage and read negative voltage.  This looks particularly valuable:
+
+http://www.symres.com/files/scalebias.pdf
+
+
