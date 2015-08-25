@@ -46,4 +46,13 @@ Note that we need to protect the system from overvoltage and read negative volta
 
 http://www.symres.com/files/scalebias.pdf
 
+Tuesday 11:34
+
+Last night I tried to get build a voltage divider to sample the voltage in the non-active coil and it failed miserably and mysteriously.  I suspect that I had something miswired.
+
+I am not sure that reading the inactive coil is in fact the best way to do positioning.  It will never allow you to sense absolute position, for example.  However, I want to debug this to understand what I did wrong.  I supsect that some sort of LED-based direct sensing of rod position will be far better.
+
+It is exciting that we are now addressing the question of reliable motion rather than simply motion itself.
+
+
 
