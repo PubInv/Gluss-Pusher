@@ -78,6 +78,8 @@ I wonder if this worth making a video about?
 
 (Actually I just discovered the $20 [motorized potentiometer](https://www.sparkfun.com/products/10976?gclid=Cj0KEQjw6vquBRCow62uo-_J_YYBEiQAMO6HijfyBuLo_aqcKEksxdn2kE-gfHNRWyhovlxQJRjpF4AaAvG_8P8HAQ) at Sparkfun which potentially makes this whole project obsolete. I will have to order some of these to test with. Sigh.)
 
+Maybe I should document the light-based linear position system completely separately.
+
 
 
 
