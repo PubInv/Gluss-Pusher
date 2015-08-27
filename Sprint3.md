@@ -54,5 +54,18 @@ I am not sure that reading the inactive coil is in fact the best way to do posit
 
 It is exciting that we are now addressing the question of reliable motion rather than simply motion itself.
 
+Wednesday Night
+
+Curse me for a fool.  I now know that I designed the coils too far apart in the 3D model, which is why it is uneven, and might cause all manner of other problems.  Also due to weird constraints I have to completely redo it.  I will do that tomorrow to be ready for the Saturday morning trip to Techshop.
+
+However, more importantly is to work on the photo-cell detection idea.  That is what I will work on tomorrow.
+
+Thursday
+
+I've been experimenting with a closed loop solution.  Basically I plan to shine an LED into the stator tube and detect the light level.  My initial experiments suggest that  this will work. I would rather use a white-light LED. However, using a green LED, I can measure resistance values on the scale of 100K ohms, varying pretty smoothly as I move the pushod.  So today I am going to set up an experiment to attempt to do this.
+
+Following my ARDX, I am going to make a voltage divider and try to read this with an Arduino.
+
+
 
 
