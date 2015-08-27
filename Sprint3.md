@@ -66,6 +66,18 @@ I've been experimenting with a closed loop solution.  Basically I plan to shine 
 
 Following my ARDX, I am going to make a voltage divider and try to read this with an Arduino.
 
+3:00 pm
+
+I believe I have had a great success.  I bought a 5mm 7000mcd brightness white LED from RadioShack.  Placing this at 5V from the Arduino with a 546 Ohm resistor. I soldered this onto a wire.  I took a standard photocell (the one that comes with the ARDX, and, as the ARDX suggests, placed it as the lower resistor in a voltage divider.  The 5V from the Arduino is applied to the voltage divider, that then Vout read with a multimeter.  It then very clearly varies between about 2.8 and about 4.5 V as the pushrod is inserted and withdrawn from the tube.
+
+Although I have not yet digitized it with the Arduino, this strongly suggests that at low price ($2 at most) we can read the position of the pushrod.
+
+This technique is probably unreliable in the sense that it requies calibration.  However, are strategy is to use "smarts" in the form of the microcontoller and to avoid extra components in the BOM.  And, our system is already a stepper motor---it should be very easy to auto-calibrate it!  (This will be a teensy programming challenge.)
+
+I wonder if this worth making a video about?
+
+(Actually I just discovered the $20 [motorized potentiometer](https://www.sparkfun.com/products/10976?gclid=Cj0KEQjw6vquBRCow62uo-_J_YYBEiQAMO6HijfyBuLo_aqcKEksxdn2kE-gfHNRWyhovlxQJRjpF4AaAvG_8P8HAQ) at Sparkfun which potentially makes this whole project obsolete. I will have to order some of these to test with. Sigh.)
+
 
 
 
