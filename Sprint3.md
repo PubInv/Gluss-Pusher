@@ -80,6 +80,12 @@ I wonder if this worth making a video about?
 
 Maybe I should document the light-based linear position system completely separately.
 
+## End of Sprint
+
+Finally, I have reprinted my parts after fixing the fact that the intercoil distance was wrong.  Hopefully this will solve the reliability problem I have been having.
+
+In Sprint 4 (starting tomorrow morning), I will wind the new stator and test it, along with the 3D printed white end cap for sensing.  If it moves reliably, then unquestionably Sprint 4 will be primarily about using the sensor to make motion fast, smooth and reliable --- it will be primarily a software sprint.
+
 
 
 
