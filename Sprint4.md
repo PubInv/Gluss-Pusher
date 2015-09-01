@@ -26,3 +26,8 @@ My Arduino (or relay shield) seems to lock up.  Often the Arduino is still liste
 The mechanical "stickiness" of the system is very annoying.  It seems to have developed after I epoxyed the Stator tube in place.  This makes it significantly hard to test everything.  If I increase the voltage I can get past the sticking points, but that is a terrible way to deal with this problem.  Unfortunately I have to figure out a better way to make a bearing.  I think linear bearing would be great, but they are normally made of steel, which interacts very badly with my magnet-filled pushrod.
 
 I want a simple solution that will let me test this, rather than having to "invent" a solution.
+
+Possibly I need to start using bearing like these on the ends: http://www.igus.com/iPro/iPro_02_1008_0000_USen.htm?c=US&l=en
+
+But that will not solve the problem of my pushod not going through the hole, which must be tight.
+
