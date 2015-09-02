@@ -45,3 +45,16 @@ Possibly I need to start using bearing like these on the ends: http://www.igus.c
 
 But that will not solve the problem of my pushod not going through the hole, which must be tight.
 
+### Wednesday Morning
+
+Yesterday I took the laser cutter class at tech shop.  I am tempted to redesign the stator yet again.  However, I think it is more important that I make a video showing my current work, by work or by crook, first.
+
+The redesign needs to focus on several points:
+
+* I don't want to have to epoxy things, as this makes it impossible to disassemble.
+* I want to start designing a way to put the Arduino, and possibly the breadboard, onto the system.
+* I need to design the end cap to held the electronics in a reasonable way.
+
+
+
+
