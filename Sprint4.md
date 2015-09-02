@@ -65,6 +65,19 @@ I think before I do the redesign, I really need to use the new positioning syste
 * Experiment: Write a function that reads the position, and turns on "Hold Position" as we deviate from that position.
 * Experiment: Change the "P" function (absolute positioning) to read the arbitraty position and try to move to that position, whatever happens!
 
+## Wednesday Afternoon, about tea-time.
+
+Great progress.  I fixed a stupid software bug that was adding confusion.  I am now reliably (unless I get stuck!) moving to various positions. I have written a "smart hold" function---that is, the system will monitor its position, and if you pull the pushrod out of position correctly attempts to restore it!  That is a very enabling feature, partially making up for the fact that we don't have a physcial locking mode.
+
+It is now the case that is is a COMBINED position sensor and linear actuator.
+
+Still plagued by stickiness in fully retracted and extended positions.  Also, I am generally operating at 18V, which is very unfortunate.
+
+I now believe there are three tasks to be done:
+
+* I want to make the motion between multiple stops smooth.  That is, now that we know (approximately) when we can cross a threshold, there is no reason to move in short stops. So we should be be able to have fast, smooth motion. In a deluxe mode, we would actually model the velocity of the pushrod and build a model of forces for acceleration and deceleration!
+* We need a systematic study of the best way to generate the MMF. I know a lot about coils but there remain some questions, some of which need to be verified experimentally.  At present, the system is of marginal usefulness. I'm estimating it exerts about 12 ounces of force.  If we can get that up to 5 pounds we will have a much more reasonable system. Of course, that is possible with more coils and more power (or even more magents) but those increase our costs.
+* I do believe we need a better physical design.  I don't want a system that relies on epoxying the stator tube in place, as I do now.
 
 
 
