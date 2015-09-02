@@ -55,6 +55,16 @@ The redesign needs to focus on several points:
 * I want to start designing a way to put the Arduino, and possibly the breadboard, onto the system.
 * I need to design the end cap to held the electronics in a reasonable way.
 
+### Wednesday Afternoon, 1:00 pm
+
+Okay, video made. 
+
+I think before I do the redesign, I really need to use the new positioning system to prove its value.  There are several approaches (or at least experiments):
+
+* Experiment: Kick a coil and simply start reading the voltage value, and see what happens if we turn the coil off right when we reach the correct position.  I expect it will overshoot significantly.
+* Experiment: Write a function that reads the position, and turns on "Hold Position" as we deviate from that position.
+* Experiment: Change the "P" function (absolute positioning) to read the arbitraty position and try to move to that position, whatever happens!
+
 
 
 
