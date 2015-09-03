@@ -79,5 +79,11 @@ I now believe there are three tasks to be done:
 * We need a systematic study of the best way to generate the MMF. I know a lot about coils but there remain some questions, some of which need to be verified experimentally.  At present, the system is of marginal usefulness. I'm estimating it exerts about 12 ounces of force.  If we can get that up to 5 pounds we will have a much more reasonable system. Of course, that is possible with more coils and more power (or even more magents) but those increase our costs.
 * I do believe we need a better physical design.  I don't want a system that relies on epoxying the stator tube in place, as I do now.
 
+### Thursday morning
+
+I got the "hold position" function working.  This is actually TREMENDOUS progress.  Unfortunately I seem to be sick. But nonetheless yesterday, although exhausting, I got an enormous amount of stuff done. 
+
+
+
 
 
