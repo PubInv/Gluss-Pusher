@@ -50,4 +50,8 @@ Probably these need to latch in both directions to get the wedge effect, but tha
 
 The Gluss Pusher currently doesn't have a way to lock the pushrod in place.  One way would be to have tabs added to the push rod, and grooves in the channel with slots.  By rotating the pushrod, you would free it for vertical motion, and by rotating it back you would lock it in place.  The rotation could be done with magnets in the push rod, or even rollers.  I think this would make it a lot less elegant however.
 
+## Idea: Robotic Massage
+
+One of the things that could be done with a 3-Gluss-member system is to make a massage robot.  The idea would be perhaps to put a ball or wheel at the end to a tetrahedron and have it pummel and roll the client. No doubt it would require a bit more sensing to be comfortable and a control mechanism, but in principle it should be possible with my system at low cost.
+
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">PIFAH: Immature Ideas</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/PIFAH/PIFAH" property="cc:attributionName" rel="cc:attributionURL">Robert L. Read</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/PIFAH/PIFAH" rel="dct:source">https://github.com/PIFAH/PIFAH</a>.
