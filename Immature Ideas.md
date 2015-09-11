@@ -54,4 +54,13 @@ The Gluss Pusher currently doesn't have a way to lock the pushrod in place.  One
 
 One of the things that could be done with a 3-Gluss-member system is to make a massage robot.  The idea would be perhaps to put a ball or wheel at the end to a tetrahedron and have it pummel and roll the client. No doubt it would require a bit more sensing to be comfortable and a control mechanism, but in principle it should be possible with my system at low cost.
 
+## Idea: Fire-Hose Robot
+
+A Gluss could potentially climb into the window of a burning building, carrrying a fire hose.  (This idea came from a conversation with Jacqueline Kazil.) This could be controlled by a firefighter on the ground controlling a model. This would potentially allow water or a flame-retardant to be delivered more precisely to the source of fire.
+
+## Idea: Tent Setup
+
+This idea also came from a conversation with Jackie Kazil.  Imagine a gluss used to automatically setup a tent frame very quickly.
+
+
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">PIFAH: Immature Ideas</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/PIFAH/PIFAH" property="cc:attributionName" rel="cc:attributionURL">Robert L. Read</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/PIFAH/PIFAH" rel="dct:source">https://github.com/PIFAH/PIFAH</a>.
