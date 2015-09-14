@@ -28,6 +28,14 @@ Quite possibly this whole project is bogus because of the difficulty of producin
 
 I think is pretty important now that I test the lithium io battery approach.
 
+Using this battery:
+
+https://www.fasttech.com/product/1895004-dc-1298a-12-6v-9800mah-rechargeable-li-ion
+
+I was able to get 148 grams of holding power.
+
+
+
 
 
 
