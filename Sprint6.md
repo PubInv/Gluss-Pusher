@@ -38,9 +38,3 @@ I was able to get 148 grams of holding power.
 
 Assuming that we use a symmertic circular section of a sphere as the center of our disc, what is the greatest possible ration of L to S, where L is the longest distance and S is the shortest of our glussion, that you can connect with a tetrahedronal (or planar) connector?
 
-
-
-
-
-
-
