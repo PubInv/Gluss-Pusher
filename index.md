@@ -11,10 +11,6 @@ Enable makers to build new kinds of machines and robots form cheap easy-to-contr
 
 ## Demo
 
-A [short video](https://youtu.be/o0czhRU1vQM?t=5s) shows our current progress.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o0czhRU1vQM" frameborder="0" allowfullscreen></iframe>
-
 A [longer video](https://youtu.be/cpzPVwBoE_4) gives a more complete introduction to the project.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cpzPVwBoE_4" frameborder="0" allowfullscreen></iframe>
@@ -22,6 +18,11 @@ A [longer video](https://youtu.be/cpzPVwBoE_4) gives a more complete introductio
 A [longish video](https://youtu.be/nshgcpDxygw) explaining an original invention, the "turret joint". 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nshgcpDxygw" frameborder="0" allowfullscreen></iframe>
+
+A [short video](https://youtu.be/o0czhRU1vQM?t=5s) shows our current progress.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o0czhRU1vQM" frameborder="0" allowfullscreen></iframe>
+
 
 ## The Story
 
