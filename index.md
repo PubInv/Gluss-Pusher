@@ -20,6 +20,7 @@ A [longer video](https://youtu.be/cpzPVwBoE_4) gives a more complete introductio
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cpzPVwBoE_4" frameborder="0" allowfullscreen></iframe>
 
 A [longish video](https://youtu.be/nshgcpDxygw) explaining an original invention, the "turret joint". 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nshgcpDxygw" frameborder="0" allowfullscreen></iframe>
 
 ## The Story
