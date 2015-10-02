@@ -19,6 +19,9 @@ A [longer video](https://youtu.be/cpzPVwBoE_4) gives a more complete introductio
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cpzPVwBoE_4" frameborder="0" allowfullscreen></iframe>
 
+A [longish video](https://youtu.be/nshgcpDxygw) explaining an original invention, the "turret joint". 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nshgcpDxygw" frameborder="0" allowfullscreen></iframe>
+
 ## The Story
 
 Ever since the mid '80s when I learned of the [octet truss](https://www.google.com/patents/US2986241?dq=octet+truss+Buckminster+Fuller&hl=en&sa=X&ved=0CB0Q6AEwAGoVChMIpI3Py6fZxgIVVxmSCh2c9QzE) while reading about Buckminster Fuller I have dreamed about replacing each strut in the octet truss with a component that could change its length. 
