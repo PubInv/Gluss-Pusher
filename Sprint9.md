@@ -29,3 +29,14 @@ progress, because the purpose of Public Invention is to form a team of inventors
 
 * Build and demonstrate a quadrupedal walker made out of gluss by the first day of 2016.
 * Demonstrate a smart-phone based control system.
+* Design a low-cost robot that anyone can build at home to creatively apply gluss technology to new problems.
+
+# Motivation
+
+Let's review why we are doing this.
+
+Current robots are not versatile. They neither mimic nature well nor enable creativity.
+
+Gluss will enable people to do things they can only do with very specialized machines today. Such as span a river, climb high into a tree, prop up a dangeours building, move heavy objects in awkward situations, lift structural elements into place, dig people out from collapsed buildings, pretend to be Doc Oc, build huge temporary structures, build walking tents, build moving shelters, build expandable shelters, lift shipwrecks, and explore caves.
+
+But you can probably think of more than that---my imagination is a bit limited.
