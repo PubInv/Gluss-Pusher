@@ -11,11 +11,15 @@ Enable makers to build new kinds of machines and robots form cheap easy-to-contr
 
 ## Demo
 
+The [most recent demo](https://youtu.be/cpzPVwBoE_4) gives some idea of the direction we are going.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UHraybKQgDY" frameborder="0" allowfullscreen></iframe>
+
 A [longer video](https://youtu.be/cpzPVwBoE_4) gives a more complete introduction to the project.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cpzPVwBoE_4" frameborder="0" allowfullscreen></iframe>
 
-A [longish video](https://youtu.be/nshgcpDxygw) explaining an original invention, the "turret joint". 
+A [longish video](https://youtu.be/nshgcpDxygw) explaining the joint, which I created independently of Song, Kwon and Kim, who [patented](https://patents.google.com/patent/US20010002964A1/en) it in 1999.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nshgcpDxygw" frameborder="0" allowfullscreen></iframe>
 
