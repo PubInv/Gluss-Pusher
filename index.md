@@ -3,11 +3,16 @@ layout: default
 title: Gluss Pusher Main Page
 ---
 
+
 # Gluss Pusher
 
 ## Mission
 
 Enable makers to build new kinds of machines and robots form cheap easy-to-control modular linear motors, or pushers.
+
+## Status
+
+Work on this project has primarily shifted to work on thhe [Gluss](https://github.com/PubInv/gluss) project itself, due to the successful use of the Firgelli commericial linear actuators. Development of cheaper actuators remains a valuable research goal, and we may return to it in the future.
 
 ## Demo
 
