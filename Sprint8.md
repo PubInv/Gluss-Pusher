@@ -1,6 +1,6 @@
 # Sprint 8 - Saturday October 3rd
 
-Very thrilled with with publication of the [Turret Joint](https://github.com/PIFAH/turret-joint). Initial test are 
+Very thrilled with with publication of the [Turret Joint](https://github.com/PubInv/turret-joint). Initial test are 
 promising, although far more testing is needed.
 
 We now have an actual robot, the "GlussBot #1"!
