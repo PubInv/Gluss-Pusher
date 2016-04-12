@@ -203,7 +203,7 @@ Even a very small, weak machine made from small gluss pushers would make a fun d
 
 The Gluss Pusher is one of several projects that I am undertaking as
 part of my effort to create a charity or movement called "[Public
-Invention For All Humanity (PIFAH)](https://github.com/PIFAH/PIFAH)". As
+Invention For All Humanity (PIFAH)](https://github.com/PubInv/PIFAH)". As
 such, as it obeys the principles of PIFAH, which are:
 
 * We will be completely transparent and open from the first.
