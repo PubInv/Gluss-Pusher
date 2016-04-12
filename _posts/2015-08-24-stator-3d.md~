@@ -199,12 +199,12 @@ linear motor approach is that it may be possible to make smaller actuators than 
 
 Even a very small, weak machine made from small gluss pushers would make a fun development platform so long as it was strong enough to move itself into programmable positions. Imagine a gluss composed of 200 members, each a mere 2" long, that could sit on your desk and quickly assume a menagerie of shapes.
 
-<h2>Part of PIFAH</h2>
+<h2>Part of PubInv</h2>
 
 The Gluss Pusher is one of several projects that I am undertaking as
 part of my effort to create a charity or movement called "[Public
-Invention For All Humanity (PIFAH)](https://github.com/PubInv/PIFAH)". As
-such, as it obeys the principles of PIFAH, which are:
+Invention For All Humanity (PubInv)](https://github.com/PubInv/PubInv)". As
+such, as it obeys the principles of PubInv, which are:
 
 * We will be completely transparent and open from the first.
 * Everything we produce will be shared to everyone without exception.
@@ -212,11 +212,11 @@ such, as it obeys the principles of PIFAH, which are:
   work is software, hardware, research, or education.
 
 So for example, I will seek no patents on anything I develop as a part
-of PIFAH. All hardware designs will be licensed with a Creative
+of PubInv. All hardware designs will be licensed with a Creative
 Commons Share Alike license, and all software will be licensed with
 the Gnu Public License. If anybody attempts to patent anything
 published here, I will fight them legally. However, I have no
-objection to people making money from anything developed by PIFAH so
+objection to people making money from anything developed by PubInv so
 long as they do not violate the licenses. I would view it as
 acceptable if a firm started making a Gluss Pusher, so long as they
 conform to the law, and I would consider it a great success if they
@@ -237,9 +237,9 @@ Presidential Innovation Fellow, which led to work where I created a
 team doing very innovative work for the Federal government, called 18F
 Consulting. I co-created a foundation to support the Presidential
 Innovation Fellows, and I hope that experience will help in the
-creation of PIFAH.
+creation of PubInv.
 
-Finally, I am focusing on PIFAH mostly full-time. I of course don't
+Finally, I am focusing on PubInv mostly full-time. I of course don't
 get paid, but am volunteering my time. There are not many people who
 have the good fortune and freedom to do something like that, and I'm
 hoping to make the most of it, possibly with your help.
@@ -261,7 +261,7 @@ entrepreneur might find a valuable use for glusses that we could aim
 to fulfil. Writers and marketers could help me recruit people to this
 project. So, if you have any interest or questions, please contact me
 by email: <read.robert@gmail.com>
-or visit our Github repositories, under the organization PIFAH.
+or visit our Github repositories, under the organization PubInv.
 
 
 

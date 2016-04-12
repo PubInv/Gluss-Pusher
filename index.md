@@ -74,7 +74,7 @@ Nonetheless, here are some ideas:
 
 As you can see, the initial design is primitive. You are probably thinking of myriad improvements and possibilities. We need thinkers, artitists, writers, tinkes, electrical engineers, programmerns and other makers that I can't imagine.
 
-The Gluss Pusher project is part of [Public Invention for All Humanity (PIFAH)](https://github.com/PubInv/PIFAH), and is therefore dedicated to publishing everything as free and open source--both hardware designs and software. PIFAH is dedicated to the benefit of all humanity.
+The Gluss Pusher project is part of [Public Invention for All Humanity (PubInv)](https://github.com/PubInv/PubInv), and is therefore dedicated to publishing everything as free and open source--both hardware designs and software. PubInv is dedicated to the benefit of all humanity.
 
 ## Current TODO
 
