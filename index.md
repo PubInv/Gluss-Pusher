@@ -23,8 +23,7 @@ It is perhpas easisest to understand why we need the Gluss Pusher project to mak
 
 A short video of our progress on this specific project can be seen here:
 
- <iframe width="560" height="315" src="https://www.youtube.com/watch?v=o0czhRU1vQM&feature=youtu.be&t=5s" frameborder="0" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o0czhRU1vQM" frameborder="0" allowfullscreen></iframe>
 based on the idea of making a simple linear tubular synchronous motor.
 
 If you watch the other vidoes out our <a href="https://www.youtube.com/watch?v=1T8XSMhwKUE">YouTube Channel</a>, you will understand that our goal is to build gluss our of hundreds of actuators. Current actuators cost approximately $80. In order to make building a 100-actuator gluss practical for most amateur researchers we need to decrease the cost by an order of magnitude.
