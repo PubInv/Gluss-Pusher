@@ -784,12 +784,14 @@ dl dd {
 }
 
 footer {
+  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;    
   padding-top: 20px;
   padding-bottom: 30px;
   margin-top: 40px;
   font-size: 13px;
-  color: #aaa;
-  background: transparent url('../images/header-bg-greenish2.png') 0 0 no-repeat;
+  color: white;
+  background: transparent url('../images/header-bg-greenish2.png') 0 0 repeat-x;
+  width: 100%;
 }
 
 footer a {
