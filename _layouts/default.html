@@ -9,13 +9,21 @@
     <meta name="author" content="">
     <link rel="icon" href="../../favicon.ico">
 
-    <title>Starter Template for Bootstrap</title>
+    <title>Gluss Pusher Project</title>
 
     <!-- Bootstrap core CSS -->
     <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Bootstrap theme -->
     <link href="bootstrap/css/bootstrap-theme.min.css" rel="stylesheet">
+
+    <link href='https://fonts.googleapis.com/css?family=Architects+Daughter' rel='stylesheet' type='text/css'>
+    <!-- Make sure to include these modifications after Bootstrap -->    
+    <link rel="stylesheet" type="text/css" href="stylesheets/toc-layout.css">    
+    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/github-light.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print">
+
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
@@ -26,26 +34,54 @@
 
   <body>
 
-  <div style="height=50px;"> </div>
+    {% include header.html %}
+    <div id="content-wrapper">
+      <div class="inner clearfix">
+        <section id="main-content">
+	  {{ content }}
+	  {% include sub-footer.html %}
+        </section>
+
+	 <aside>
+	  <ul id="toc">	  
+	  </ul>
+	 </aside>
+
+
+        <aside id="sidebar">
+	  Hello!
+
+          <a href="https://github.com/PubInv/gluss/zipball/master" class="button">
+            <small>Download</small>
+            .zip file
+          </a>
+          <a href="https://github.com/PubInv/gluss/tarball/master" class="button">
+            <small>Download</small>
+            .tar.gz file
+          </a>
+	</aside>
+	
+
+      </div>
+
+    </div>
+
+
+
+
+
+  {% include footer.html %}
   
-  <div class="container theme-showcase" role="main">
-
-{% include header.html %}
-
-    {{ content }}
-
-{% include footer.html %}
-
-    </div><!-- /.container -->
-
-
-    <!-- Bootstrap core JavaScript
+  
+  <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
     <script src="bootstrap/js/bootstrap.min.js"></script>
+    <script src="javascripts/jquery.tableofcontents.js" type="text/javascript" charset="utf-8"></script>
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
 <!--    <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script> -->
   </body>
 </html>
+
 
