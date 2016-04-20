@@ -449,8 +449,8 @@ a:hover {
 }
 
 header {
-  padding-top: 40px;
-  padding-bottom: 40px;
+  padding-top: 20px;
+  padding-bottom: 20px;
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
   /*  background: #2e7bcf url(../images/header-bg.jpg) 0 0 repeat-x; */
   background: #70B878 url(../images/header-bg-greenish2.png) 0 0 repeat-x;
@@ -463,12 +463,12 @@ header ul li a {
 }
 
 .navbar {
-  padding-top: 40px;
-  padding-bottom: 40px;
+  padding-top: 20px;
+  padding-bottom: 20px;
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
   /*  background: #2e7bcf url(../images/header-bg.jpg) 0 0 repeat-x; */
   background: #70B878 url(../images/header-bg-greenish2.png) 0 0 repeat-x;
-  border-bottom: solid 1px #275da1;
+/*  border-bottom: solid 1px #275da1; */
   color: white;
 /*  opacity: 0.2; */
 }
@@ -514,7 +514,7 @@ header h3 {
 }
 /* Used in the context of a fixed navbar, this must be padded */
 #content-wrapper {
-  padding-top: 150px;
+  padding-top: 20px;
   border-top: solid 1px #fff;
 }
 
